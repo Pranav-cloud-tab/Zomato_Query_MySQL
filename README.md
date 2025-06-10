@@ -38,34 +38,32 @@ The project also includes a clear and well-structured **ER diagram** representin
 ---
 
 ## 📝 Questions & Results## 📝 Questions & Results
-
 The project answers the following 21 questions using SQL queries.  
-Each question has its corresponding result screenshot available in the `screenshots/` folder.
+Each question has its corresponding result screenshot available in the `Project_Output` folder.
 
 | No. | Question | Result Screenshot |
 |-----|----------|-------------------|
-| Q1  | How many distinct restaurants are present in the dataset? | [View](Project_Output/1.png) |
-| Q2  | What are the top 10 cuisines offered by restaurants? | [View](Project_Output/2.png) |
-| Q3  | Which cities have the highest number of restaurants? | [View](Project_Output/3.png) |
-| Q4  | What is the average cost for two people per city? | [View](Project_Output/4.png) |
-| Q5  | Find the top 5 restaurants with the highest ratings. | [View](Project_Output/5.png) |
-| Q6  | How many restaurants offer online delivery? | [View](Project_Output/6.png) |
-| Q7  | How many restaurants offer table booking? | [View](Project_Output/7.png) |
-| Q8  | What is the distribution of restaurant ratings? | [View](Project_Output/8.png) |
-| Q9  | Which cuisines are most commonly offered in Bangalore? | [View](Project_Output/9.png) |
-| Q10 | Which cities have restaurants with an average rating above 4.5? | [View](Project_Output/10.png) |
-| Q11 | Find restaurants that offer both online delivery and table booking. | [View](Project_Output/11.png) |
-| Q12 | What is the correlation between cost for two and rating? | [View](Project_Output/12.png) |
-| Q13 | Which locality has the highest number of restaurants? | [View](Project_Output/13.png) |
-| Q14 | List the top 10 most voted restaurants. | [View](Project_Output/14.png) |
-| Q15 | What is the most popular cuisine based on number of restaurants? | [View](Project_Output/15.png) |
-| Q16 | Find restaurants that offer multiple cuisines. | [View](Project_Output/16.png) |
-| Q17 | What is the trend of average rating per city? | [View](Project_Output/17.png) |
-| Q18 | What is the average cost for two for restaurants offering online delivery? | [View](Project_Output/18.png) |
-| Q19 | Find restaurants with a rating above 4.0 and more than 500 votes. | [View](Project_Output/19.png) |
-| Q20 | What percentage of restaurants offer table booking in each city? | [View](Project_Output/20.png) |
-| Q21 | List the cities with the highest percentage of highly rated restaurants (rating ≥ 4.5). | [View](Project_Output/21.png) |
-
+| Q1  | A rolling or moving count of restaurants in Indian cities. | [View](Project_Output/1.png) |
+| Q2  | Percentage of restaurants in all countries. | [View](Project_Output/2.png) |
+| Q3  | Percentage of restaurants with online delivery per country. | [View](Project_Output/3.png) |
+| Q4  | City & locality in India with max restaurants. | [View](Project_Output/4.png) |
+| Q5  | Types of food in India in locality with max restaurants. | [View](Project_Output/5.png) |
+| Q6  | Most popular food in India where max restaurants listed. | [View](Project_Output/6.png) |
+| Q7  | Localities in India with lowest restaurants listed. | [View](Project_Output/7.png) |
+| Q8  | Restaurants offering table booking in locality with max restaurants in India. | [View](Project_Output/8.png) |
+| Q9  | Effect of rating with/without table booking in Connaught Place. | [View](Project_Output/9.png) |
+| Q10 | Average rating of restaurants location-wise. | [View](Project_Output/10.png) |
+| Q11 | Best restaurants in India with moderate cost and Indian cuisines. | [View](Project_Output/11.png) |
+| Q12 | Restaurants offering table booking with high rating by price range. | [View](Project_Output/12.png) |
+| Q13 | Top 5 most popular cities by number of restaurants (India). | [View](Project_Output/13.png) |
+| Q14 | Which price range has the most restaurants in India? | [View](Project_Output/14.png) |
+| Q15 | How many restaurants in India offer both online delivery and table booking? | [View](Project_Output/15.png) |
+| Q16 | Average cost for two across cities in India. | [View](Project_Output/16.png) |
+| Q17 | Top 5 localities in India by average rating (with at least 10 restaurants). | [View](Project_Output/17.png) |
+| Q18 | Distribution of restaurants by rating bands (India). | [View](Project_Output/18.png) |
+| Q19 | Average rating by price range in India. | [View](Project_Output/19.png) |
+| Q20 | Which cuisines are offered by most restaurants in India? | [View](Project_Output/20.png) |
+| Q21 | Find restaurants with rating ≥ 4.5 and moderate price range in India (Top 10). | [View](Project_Output/21.png) |
 ---
 
 ## 👨‍💻 Author
