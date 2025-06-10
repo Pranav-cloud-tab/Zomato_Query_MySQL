@@ -29,9 +29,11 @@ The project also includes a clear and well-structured **ER diagram** representin
 
 ---
 
-## 🗺️ ER Diagram
+## 🗺️ MySQL
 
-![ER Diagram](diagrams/er_diagram.png)
+<p align="left">
+  <img src="Project_Output/mysql-logo.svg" alt="MySQL" width="400"/>
+</p>
 
 ---
 
@@ -69,7 +71,7 @@ Each question has its corresponding result screenshot available in the `screensh
 ## 👨‍💻 Author
 
 **Pranav Gadge**  
-GitHub: [https://github.com/pranavgadge](https://github.com/pranavgadge)
+GitHub: [https://github.com/Pranav-cloud-tab](https://github.com/Pranav-cloud-tab)
 
 ---
 
