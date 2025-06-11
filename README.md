@@ -25,7 +25,6 @@ The project also includes a clear and well-structured **ER diagram** representin
 
 - MySQL 8.x
 - MySQL Workbench / DBeaver / phpMyAdmin (for visualization & querying)
-- dbdiagram.io (for ER diagram generation)
 
 ---
 
